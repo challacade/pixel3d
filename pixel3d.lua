@@ -1,7 +1,9 @@
--- Pixel3D - 3D Pixel Art Image3D Renderer Factory
--- Creates image3d instances from pixel art images
-
-local pixel3d = {}
+local pixel3d = {
+    _LICENSE = "This software is distributed under the MIT license. See LICENSE for details.",
+    _URL = "https://github.com/challacade/pixel3d",
+    _VERSION = "1.0.0",
+    _DESCRIPTION = "Render pixel-art as a 3D voxel models, in Love2D",
+}
 
 -- Default configuration
 local DEFAULT_VOXEL_SIZE = 20
