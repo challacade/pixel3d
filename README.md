@@ -1,5 +1,7 @@
 # pixel3d.lua
 
+https://github.com/user-attachments/assets/29bf53b8-7691-4f51-b35d-9aa2af063ee0
+
 You can render 3D objects in Love2D! Use this Lua file to turn pixel art images into 3D voxel representations with real-time rotation and shading.
 
 All functionality exists in `pixel3d.lua` - that's all you need for your project! The `main.lua` provides a great example of how to use pixel3d to render 3D images, and you can run this repo as a Love2D game to see it in action.
